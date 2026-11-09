@@ -8,11 +8,7 @@
 ---
 
 ## 1. Mục tiêu
-|STT|HO VA TEN|LOP|
-|---|---|---|
-|1|NGUYEN VAN A|CNTT1|
-|2|NGUYEN VAN B|CNTT2|
-|3|NGUYEN VAN C|QTKD1|
+
 
 
 
