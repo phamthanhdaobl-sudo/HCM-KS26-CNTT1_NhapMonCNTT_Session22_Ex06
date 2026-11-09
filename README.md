@@ -8,6 +8,13 @@
 ---
 
 ## 1. Mục tiêu
+|STT|HO VA TEN|LOP|
+|---|---|---|
+|1|NGUYEN VAN A|CNTT1|
+|2|NGUYEN VAN B|CNTT2|
+|3|NGUYEN VAN C|QTKD1|
+
+
 
 Vận dụng kỹ năng xây dựng Prompt AI và Bug Reporting Framework để phân tích, tìm nguyên nhân và xử lý lỗi quyền truy cập trong Git.
 
